@@ -1,0 +1,8 @@
+D:\assignemt exercise\assignment-16\ConsoleAppAssignment16\ConsoleAppAssignment16\bin\Debug\ConsoleAppAssignment16.exe.config
+D:\assignemt exercise\assignment-16\ConsoleAppAssignment16\ConsoleAppAssignment16\bin\Debug\ConsoleAppAssignment16.exe
+D:\assignemt exercise\assignment-16\ConsoleAppAssignment16\ConsoleAppAssignment16\bin\Debug\ConsoleAppAssignment16.pdb
+D:\assignemt exercise\assignment-16\ConsoleAppAssignment16\ConsoleAppAssignment16\obj\Debug\ConsoleAppAssignment16.csproj.AssemblyReference.cache
+D:\assignemt exercise\assignment-16\ConsoleAppAssignment16\ConsoleAppAssignment16\obj\Debug\ConsoleAppAssignment16.csproj.SuggestedBindingRedirects.cache
+D:\assignemt exercise\assignment-16\ConsoleAppAssignment16\ConsoleAppAssignment16\obj\Debug\ConsoleAppAssignment16.csproj.CoreCompileInputs.cache
+D:\assignemt exercise\assignment-16\ConsoleAppAssignment16\ConsoleAppAssignment16\obj\Debug\ConsoleAppAssignment16.exe
+D:\assignemt exercise\assignment-16\ConsoleAppAssignment16\ConsoleAppAssignment16\obj\Debug\ConsoleAppAssignment16.pdb
